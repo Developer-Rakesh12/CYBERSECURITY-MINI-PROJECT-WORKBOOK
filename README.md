@@ -73,6 +73,6 @@ This is an educational awareness tool. It only reads URL text. It does not visit
 - Never upload passwords, API keys or confidential data to GitHub.
 
 ## Author
-- Name: [Enter your name]
-- Batch / Course: [Enter your batch or course]
+- Name: RAKESH SINGH NEGI
+- Batch / Course: AI-Powered Cybersecurity Internship 
 - Organisation: EWB Courses
