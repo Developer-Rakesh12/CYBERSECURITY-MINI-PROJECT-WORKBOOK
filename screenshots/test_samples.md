@@ -1,6 +1,8 @@
 # Test Results
 
-Python version used: Python 3.13 | Operating system: Windows/Linux/macOS (update to your system) | Date: Update with test date
+Python version used: Python version used: Python 3.13
+Operating system: Windows 11
+Date: 31 October 2026 | Operating system: Windows/Linux/macOS (update to your system) | Date: Update with test date
 
 The actual-result entries below are the expected program messages for the supplied sample inputs. Run each input on your own computer and confirm them before submission.
 
