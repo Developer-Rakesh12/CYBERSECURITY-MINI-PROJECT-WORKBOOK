@@ -2,7 +2,7 @@
 
 **Python version used:** Python 3.13
 **Operating system:** Windows 11
-**Date:** 31 October 2026 (यदि आज टेस्ट किया है)
+**Date:** 31 October 2026 
 
 The following are the expected results for the five supplied sample URLs. Actual results must be verified by running the program on your computer.
 
