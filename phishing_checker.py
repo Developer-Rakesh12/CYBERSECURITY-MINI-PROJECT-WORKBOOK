@@ -55,6 +55,7 @@ INFO_MESSAGES = (
 
 
 def has_warnings(findings):
+
     """Return True when at least one warning sign (not an information message) exists."""
     return not any(findings[0].startswith(message) for message in INFO_MESSAGES)
 
